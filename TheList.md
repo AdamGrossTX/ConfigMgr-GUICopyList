@@ -5,6 +5,7 @@ Add Copy functionality to the following:
 1. User > Properties > General > Discovery Data
 1. Operating System Image > Properties > Images Tab > Image Properties
 1. Configuration Baseline > Evaluation Conditions Tab
+1. Operating Systems > Drivers > Categories
 
 Add Paste functionality to the following:
 
